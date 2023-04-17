@@ -207,7 +207,7 @@ Execute the below command to clone Site24x7's terraform provider repository to a
 
   git clone https://github.com/site24x7/terraform-provider-site24x7.git
   cd terraform-provider-site24x7
-
+ 
 ```
 
 The current directory denotes your `$SITE24X7_TERRAFORM_PROVIDER_REPOSITORY_HOME`
